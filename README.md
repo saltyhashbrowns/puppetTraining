@@ -1,2 +1,2 @@
 # puppetTraining
-Puppet Training Repo Hello World
+Goodbye Cruel World
